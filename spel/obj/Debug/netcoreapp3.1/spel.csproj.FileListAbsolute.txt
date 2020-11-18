@@ -1,0 +1,13 @@
+C:\Users\theo.tornvallhjorte\Downloads\sws\spel\bin\Debug\netcoreapp3.1\spel.exe
+C:\Users\theo.tornvallhjorte\Downloads\sws\spel\bin\Debug\netcoreapp3.1\spel.deps.json
+C:\Users\theo.tornvallhjorte\Downloads\sws\spel\bin\Debug\netcoreapp3.1\spel.runtimeconfig.json
+C:\Users\theo.tornvallhjorte\Downloads\sws\spel\bin\Debug\netcoreapp3.1\spel.runtimeconfig.dev.json
+C:\Users\theo.tornvallhjorte\Downloads\sws\spel\bin\Debug\netcoreapp3.1\spel.dll
+C:\Users\theo.tornvallhjorte\Downloads\sws\spel\bin\Debug\netcoreapp3.1\spel.pdb
+C:\Users\theo.tornvallhjorte\Downloads\sws\spel\obj\Debug\netcoreapp3.1\spel.csprojAssemblyReference.cache
+C:\Users\theo.tornvallhjorte\Downloads\sws\spel\obj\Debug\netcoreapp3.1\spel.AssemblyInfoInputs.cache
+C:\Users\theo.tornvallhjorte\Downloads\sws\spel\obj\Debug\netcoreapp3.1\spel.AssemblyInfo.cs
+C:\Users\theo.tornvallhjorte\Downloads\sws\spel\obj\Debug\netcoreapp3.1\spel.csproj.CoreCompileInputs.cache
+C:\Users\theo.tornvallhjorte\Downloads\sws\spel\obj\Debug\netcoreapp3.1\spel.dll
+C:\Users\theo.tornvallhjorte\Downloads\sws\spel\obj\Debug\netcoreapp3.1\spel.pdb
+C:\Users\theo.tornvallhjorte\Downloads\sws\spel\obj\Debug\netcoreapp3.1\spel.genruntimeconfig.cache
